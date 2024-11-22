@@ -1,0 +1,11 @@
+commit 30824674afad9b0258c78e7e1f997afd84bc4f70
+Author: elglile <159739109+elglile@users.noreply.github.com>
+Date:   Fri Nov 22 15:59:44 2024 +0100
+
+    TasK1 readme
+
+commit d5af9146e40022cdc1bec2839a4488c4980aed64
+Author: Ayoub_EL-Glile <159739109+elglile@users.noreply.github.com>
+Date:   Fri Nov 22 15:57:32 2024 +0100
+
+    Initial commit
